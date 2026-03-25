@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm Currently  Pursuing an Integrated Master of Science (BS-MS) in Computer Science & Data Analytics from the Indian Institute of Technology (IIT), Patna.<br>I'm Currently Working as a Student Member of Indian Council For Technical Research and Development (ICTRD).
+# About Me:
+I'm Currently  Pursuing an Integrated Master of Science in Computer Science & Data Analytics from the Indian Institute of Technology (IIT), Patna.<br>I'm Currently Working as a Student Member of Indian Council For Technical Research and Development (ICTRD).
 
 
 ## 🌐 Socials:
