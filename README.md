@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abhinav Kumar
 
 ## 👨‍💻 About Me:
-- Pursuing **Integrated Master of Science (BS-MS) in Computer Science & Data Analytics** from **Indian Institute of Technology (IIT), Patna** 
+- Pursuing **Integrated Master of Science (BS-MS) in Computer Science & Data Analytics** from **IIT Patna**
 - Serving as a **Student Member** at **Indian Council For Technical Research and Development (ICTRD), Nagpur**  
 - Actively learning and building real-world projects
 ___
